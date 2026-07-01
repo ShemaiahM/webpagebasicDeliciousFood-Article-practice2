@@ -1,4 +1,4 @@
-# webpagebasicDeliciousFood-Aricle-practice2
+# webpagebasicDeliciousFood-Aritcle-practice2
 
 <img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/abf5848a-6cf1-4dac-acb4-f138e45df669" />
 
